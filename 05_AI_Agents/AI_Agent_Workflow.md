@@ -1,5 +1,9 @@
 # AI Agent Workflow
 
+Resource Manager
+- Required before all large tasks
+- Evaluates task size, ROI, limit risk, architecture risk, technical debt impact, expected files, recommended scope, and proceed recommendation
+
 Product Manager
 - Defines priority
 

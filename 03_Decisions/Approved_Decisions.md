@@ -48,3 +48,31 @@ Stability before new features.
 
 Status:
 Approved
+
+---
+
+## AI Resource Management
+
+Decision:
+All non-trivial Codex tasks must be evaluated by Resource Manager before execution.
+
+Status:
+Approved
+
+Required pre-task header:
+
+Task Size:
+
+ROI:
+
+Limit Risk:
+
+Architecture Risk:
+
+Technical Debt Impact:
+
+Expected Files:
+
+Recommended Scope:
+
+Proceed Recommendation:
