@@ -70,3 +70,39 @@ First revenue
 Goal:
 
 Global Expansion
+
+---
+
+## Wearable Integration
+
+Future product layer for connecting recovery, sleep, heart-rate, and activity data to the FreediveGo training diary and user profile.
+
+### Stage 1 - WHOOP
+
+- OAuth connection for a WHOOP account.
+- Synchronization:
+  - Recovery
+  - Sleep
+  - HRV
+  - Resting Heart Rate
+  - Strain
+  - Workouts
+- Automatic writing of wearable data to the user's training diary.
+- Display of wearable data in the user profile and training diary.
+
+### Stage 2 - Garmin
+
+- Integration through Garmin Health API.
+- Synchronization:
+  - Sleep
+  - HRV
+  - Stress
+  - Body Battery
+  - Heart Rate
+  - Activities
+- Automatic display in the training diary.
+
+### Future Stages
+
+- Apple Health
+- Google Health Connect

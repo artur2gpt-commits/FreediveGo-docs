@@ -79,6 +79,7 @@ Features:
 - Business subscriptions
 - Partner integrations
 - Advanced analytics
+- Wearable integrations: WHOOP, Garmin, Apple Health, Google Health Connect
 
 ---
 
